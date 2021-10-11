@@ -10,12 +10,12 @@ void main()
 	for(i=0;i<size;i++)
 	{
 		scanf("%d",&arr[i]);
-    }
-    printf("Elements: ");
-    for(i=0;i<size;i++)
+        }
+        printf("Elements: ");
+        for(i=0;i<size;i++)
 	{
     	printf("%d ",arr[i]);
-		sum = sum +arr[i];
-    }    
- printf("\nSum: %d ",sum);
+        sum = sum +arr[i];
+        }    
+        printf("\nSum: %d ",sum);
 }
