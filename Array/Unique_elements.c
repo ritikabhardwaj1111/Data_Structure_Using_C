@@ -1,3 +1,5 @@
+// Print all the unique elements in array
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
