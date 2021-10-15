@@ -16,7 +16,7 @@ Special format for organizing and storing of the data is called Data structure. 
   <td>Graph</td>
 </tr>
  <tr>
-   <td> Stack </td>
+   <td><a href="https://github.com/ritikabhardwaj1111/Data_Structure_Using_C/tree/main/Stack"> Stack </a> </td>
    <td> Tree </td>
  </tr>
 <tr>  
