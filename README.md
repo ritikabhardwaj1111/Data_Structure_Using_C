@@ -20,7 +20,7 @@ Special format for organizing and storing of the data is called Data structure. 
    <td> Tree </td>
  </tr>
 <tr>  
-  <td> Queue </td>
+  <td><a href="https://github.com/ritikabhardwaj1111/Data_Structure_Using_C/tree/main/Queue"> Queue</a> </td>
   </tr>  
 <tr>
   <td> Linked List </td>
